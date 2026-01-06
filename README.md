@@ -21,7 +21,7 @@
 
 ## My Info
 - 22 y.o.
-- How to reach me: [Telegram](https://t.me/gMihMih29), [Email me](mailto:mmgetmanov@gmail.com)
+- You can reach me at [Telegram](https://t.me/gMihMih29) or [Email me](mailto:mmgetmanov@gmail.com)
 - [CV ru](https://drive.google.com/file/d/1Ulyy3yNh8GQZ1PZFkQ80jv9bTL8jbsm0/view?usp=sharing)
 - [CV eng]() *in progress*
 - Fun fact: I have film camera and sometimes post some photos to my [Telegram channel](https://t.me/plenka_number)
