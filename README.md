@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**gMihMih29/gMihMih29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- C++ backend developer at **Yandex.Ads** - **[Adfox](https://adfox.yandex.ru/promo/en)**
+- 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 *𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎* and **Software Engineering** 𝚊𝚝 **[𝙷𝚒𝚐𝚑𝚎𝚛 𝚂𝚌𝚑𝚘𝚘𝚕 𝚘𝚏 𝙴𝚌𝚘𝚗𝚘𝚖𝚒𝚌𝚜](https://www.hse.ru/en/)**
+- Stydying *Backend development* and *SRE* at **[Backend Academy](https://education.tbank.ru/academy/backend/)**, **[T-Bank](https://www.tbank.ru/)**
 
-Here are some ideas to get you started:
+## Personal Projects
+- **[3D-Renderer](https://github.com/gMihMih29/3D-Renderer)** - basic analog of OpenGL
+- **[C++ code analysis](https://github.com/SctCodeAnalysis/cpp-stats)** - analysis of C++ syntax tree with code metrics
+- Projects related to registrations with payment. ([Evman](https://evman.ru/), telegram bots, ...)
+- Robots with computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+
+- Advertisement technologies
+- Registration technologies
+- Backend development
+- Machine learning
+- Linear algebra
+- SRE
+
+## My Info
+- [Telegram](https://t.me/gMihMih29), [Email](mailto:mmgetmanov@gmail.com)
+- [CV ru](https://drive.google.com/file/d/1Ulyy3yNh8GQZ1PZFkQ80jv9bTL8jbsm0/view?usp=sharing)
+- [CV eng]() *in progress*
+- Fun fact: I have film camera and sometimes post some photos to my [Telegram channel](https://t.me/plenka_number)
